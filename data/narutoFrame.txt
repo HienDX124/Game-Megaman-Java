@@ -1,0 +1,275 @@
+
+38
+
+rasengan1
+image data/naruto_full_action_2_2_3.png
+x 59
+y 2415
+w 75
+h 77
+
+rasengan2
+image data/naruto_full_action_2_2_3.png
+x 153
+y 2415
+w 75
+h 77
+
+rasengan3
+image data/naruto_full_action_2_2_3.png
+x 232
+y 2415
+w 75
+h 77
+
+rasengan4
+image data/naruto_full_action_2_2_3.png
+x 308
+y 2415
+w 75
+h 77
+
+rasengan5
+image data/naruto_full_action_2_2_3.png
+x 386
+y 2415
+w 80
+h 77
+
+rasengan6
+image data/naruto_full_action_2_2_3.png
+x 479
+y 2415
+w 80
+h 77
+
+rasengan7
+image data/naruto_full_action_2_2_3.png
+x 566
+y 2415
+w 80
+h 77
+
+rasengan8
+image data/naruto_full_action_2_2_3.png
+x 684
+y 2415
+w 67
+h 77
+
+rasengan9
+image data/naruto_full_action_2_2_3.png
+x 749
+y 2415
+w 67
+h 77
+
+rasengan10
+image data/naruto_full_action_2_2_3.png
+x 817
+y 2415
+w 67
+h 77
+
+rasengan11
+image data/naruto_full_action_2_2_3.png
+x 886
+y 2415
+w 67
+h 77
+
+rasengan12
+image data/naruto_full_action_2_2_3.png
+x 20
+y 2522
+w 80
+h 77
+
+rasengan13
+image data/naruto_full_action_2_2_3.png
+x 92
+y 2522
+w 80
+h 77
+
+rasengan14
+image data/naruto_full_action_2_2_3.png
+x 164
+y 2522
+w 80
+h 77
+
+rasengan15
+image data/naruto_full_action_2_2_3.png
+x 233
+y 2522
+w 80
+h 77
+
+rasengan16
+image data/naruto_full_action_2_2_3.png
+x 306
+y 2522
+w 80
+h 77
+
+rasengan17
+image data/naruto_full_action_2_2_3.png
+x 377
+y 2522
+w 80
+h 77
+
+rasengan18
+image data/naruto_full_action_2_2_3.png
+x 445
+y 2522
+w 80
+h 77
+
+rasengan19
+image data/naruto_full_action_2_2_3.png
+x 515
+y 2522
+w 80
+h 77
+
+
+rasengan20
+image data/naruto_full_action_2_2_3.png
+x 17
+y 2628
+w 80
+h 77
+
+rasengan21
+image data/naruto_full_action_2_2_3.png
+x 93
+y 2628
+w 80
+h 77
+
+rasengan22
+image data/naruto_full_action_2_2_3.png
+x 171
+y 2628
+w 80
+h 77
+
+rasengan23
+image data/naruto_full_action_2_2_3.png
+x 252
+y 2628
+w 80
+h 77
+
+rasengan24
+image data/naruto_full_action_2_2_3.png
+x 344
+y 2628
+w 80
+h 77
+
+rasengan25
+image data/naruto_full_action_2_2_3.png
+x 438
+y 2628
+w 80
+h 77
+
+rasengan26
+image data/naruto_full_action_2_2_3.png
+x 544
+y 2628
+w 80
+h 77
+
+rasengan27
+image data/naruto_full_action_2_2_3.png
+x 623
+y 2628
+w 80
+h 77
+
+rasengan28
+image data/naruto_full_action_2_2_3.png
+x 698
+y 2628
+w 80
+h 77
+
+rasengan29
+image data/naruto_full_action_2_2_3.png
+x 770
+y 2628
+w 80
+h 77
+
+rasengan30
+image data/naruto_full_action_2_2_3.png
+x 839
+y 2628
+w 80
+h 77
+
+rasengan31
+image data/naruto_full_action_2_2_3.png
+x 926
+y 2628
+w 80
+h 77
+
+
+rasengan32
+image data/naruto_full_action_2_2_3.png
+x 9
+y 2719
+w 80
+h 77
+
+rasengan33
+image data/naruto_full_action_2_2_3.png
+x 110
+y 2719
+w 80
+h 77
+
+rasengan34
+image data/naruto_full_action_2_2_3.png
+x 206
+y 2719
+w 80
+h 77
+
+rasengan35
+image data/naruto_full_action_2_2_3.png
+x 297
+y 2719
+w 80
+h 77
+
+rasengan36
+image data/naruto_full_action_2_2_3.png
+x 390
+y 2719
+w 80
+h 77
+
+rasengan37
+image data/naruto_full_action_2_2_3.png
+x 481
+y 2719
+w 80
+h 77
+
+rasengan38
+image data/naruto_full_action_2_2_3.png
+x 601
+y 2719
+w 80
+h 77
+
+
+
+
+
